@@ -1,6 +1,7 @@
 package com.fx.heap;
 
 import java.util.Comparator;
+import java.util.HashSet;
 
 // 二叉堆 完全二叉堆 底层结构一般使用数组 最大堆
 public class BinaryHeap<E> extends AbstractHeap<E> implements Heap<E> {
