@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32e414fe-9887-421c-a833-ab2443b04f15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/DataStructures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../排序/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fx/heap/BinaryHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fx/heap/BinaryHeap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../排序/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../排序/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../排序/src/com/fx/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../排序/src/com/fx/sort/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

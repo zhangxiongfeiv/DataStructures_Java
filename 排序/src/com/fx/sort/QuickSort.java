@@ -3,8 +3,8 @@ package com.fx.sort;
 /*
  找出轴点元素的位置  轴点左右分别递归快速排序
 
- 最坏复杂度 ： 如果轴点左右元素数量极度不均匀 O(n^2)
- 平均复杂度 ： O*logN
+ 最坏复杂度 ： 如果轴点左右元素数量极度不均匀 O(N^2)
+ 平均复杂度 ： O(N*logN)
 
  不稳定排序
 
@@ -28,6 +28,7 @@ public class QuickSort<T extends Comparable<T>> extends Sort <T>  {
         sort(middle + 1,end);
     }
 
+    // 左闭右开
     private int pivotIndex(int begain,int end){
 
         T tmp = array[begain];
